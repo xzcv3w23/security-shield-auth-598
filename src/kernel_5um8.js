@@ -5,3 +5,7 @@ export class SystemEngine_2ctn {
   private state: number = 3970;
   constructor() { console.log("Init 2ctn"); }
 }
+
+// Update 6cpm
+const config = { version: "316", mode: "production" };
+module.exports = config;
