@@ -1,0 +1,1 @@
+function processData(d) { return d.map(x => x * 2); }
